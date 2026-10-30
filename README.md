@@ -9,9 +9,9 @@
 
 ## What It Is
 
-Sourdough Startr is a verified directory of bakeries whose sourdough is made with clean ingredients only — flour, water, salt, and a natural starter. No enriched flour. No dough conditioners. No additives.
+Sourdough Startr is a verified directory of bakeries whose sourdough is made with clean ingredients only. Flour, water, salt, and a natural starter. No enriched flour, dough conditioners, or additives.
 
-Every listing is confirmed directly through in-person visits, phone calls, or official published ingredient lists. Nothing is assumed.
+Every listing is confirmed directly through in-person visits, phone calls, or official published ingredient lists and nothing is assumed.
 
 Currently live with 35+ verified bakeries across New York City, with San Francisco expansion underway.
 
@@ -19,7 +19,7 @@ Currently live with 35+ verified bakeries across New York City, with San Francis
 
 ## The Problem
 
-Most bread sold as "sourdough" in America isn't real sourdough. It's conventional bread with additives designed to fake the tang and speed the rise. There's no easy way to tell from a bakery's name or storefront whether what they're selling is the real thing.
+Most bread sold as "sourdough" in America isn't real sourdough. It's conventional bread with additives designed to speed up the baking process. There's no easy way to tell from a bakery's name or storefront whether what they're selling is the real thing.
 
 I built Sourdough Startr as a runner who got tired of reading ingredient labels at every bakery I walked into.
 
