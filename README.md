@@ -1,7 +1,7 @@
 # sourdough-startr-overview
 # Sourdough Startr
 
-**Find the cleanest sourdough bread near you — verified.**
+**Find the cleanest sourdough bread near you!**
 
 🌐 **Live at [sourdoughstartr.com](https://sourdoughstartr.com)**
 
