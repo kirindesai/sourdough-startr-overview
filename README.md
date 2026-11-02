@@ -1,5 +1,5 @@
-# sourdough-startr-overview
-An overview of my Summer 2026 Project in New York City, completed outside of internship hours.
+# sourdough-startr-overview: An overview of my Summer 2026 Project in New York City, completed outside of internship hours.
+
 # Sourdough Startr
 
 **Find the cleanest sourdough bread near you!**
